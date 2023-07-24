@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yash Rawat
+I'm Yash Rawat, a Full Stack Developer. I'm currently building projects with Next.js, Tailwind CSS, MongoDB.
 
 # 💻 Tech Stack:
 
