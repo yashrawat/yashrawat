@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Yash Rawat, from India.
 
 # 💻 Tech Stack:
 
