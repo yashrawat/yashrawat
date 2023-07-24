@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yash Rawat, a Full Stack Developer. I'm currently building projects with Next.js, Tailwind CSS, MongoDB.
+I'm Yash Rawat, a Full Stack Developer. I'm currently building projects with Next.js, Tailwind CSS, ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
 
 # 💻 Tech Stack:
 
