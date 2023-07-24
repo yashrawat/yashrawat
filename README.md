@@ -11,6 +11,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
+[![Yash's GitHub stats](https://vercel.com/yashrawat/github-readme-stats-clone/api?username=yashrawat)](https://github.com/yashrawat/github-readme-stats-clone)
 ![](https://github-readme-stats.vercel.app/api?username=yashrawat&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashrawat&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrawat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
