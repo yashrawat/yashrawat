@@ -17,7 +17,7 @@ I'm Yash Rawat, a Full Stack Developer. I'm currently building projects with:<br
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashrawat&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrawat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashrawat&theme=xcode)
+![](https://github-readme-activity-graph.vercel.app/graph?username=yashrawat&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashrawat&theme=radical&no-frame=true&no-bg=true&margin-w=4)
